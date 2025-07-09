@@ -1,5 +1,5 @@
 # 💫 About Me:
-🥇 1st Place – App Development Competition (MAGE X ITS 2024)<br><br>🥇 Finalist – National Hackathon Events<br><br>🎨 Built multiple internal tools (Telegram bots) at Telkom Indonesia<br><br>📱 Developed mobile app for final project using Flutter<br><br>🎓 Completed Bangkit Academy 2024 – Android Learning Path<br><br>💻 Skilled in Flutter, Jetpack Compose, and React
+🥇 1st Place – App Development Competition (MAGE X ITS 2024)<br><br>🥇 Finalist – National Hackathon Events<br><br>🎨 Built multiple internal tools (Telegram bots) at Telkom Indonesia<br><br>📱 Developed mobile app for final project using Jetpack Compose<br><br>🎓 Completed Bangkit Academy 2024 – Android Learning Path<br><br>💻 Skilled in Flutter, Jetpack Compose, and React
 
 
 ## 🌐 Socials:
